@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="ue13" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/corpo testo helvetica c">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="36">
+				<Content>d</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>xexe citationx llamcoxl bori xnisixut aliquipx xxeaxcommo oxconse uatxloremxi sumxdolor sitxa etxconsect turxadipi ci gxe itxsedxdox iusmodxtem or incid dun xu xl borex txd lorexma naxali</Content>
+				<Br />
+				<Content>qu xutxe imxadxm nimxve iamxqui xnostrudx xercitationx llamcoxl bor sxnis xutxaliq ip exx ax ommodoxcon equatxlor mx psumxdol rxsi xa etxconsec eturxadipi cin xel tx edxdoxei smodxtem orxinci iduntx txlaborex txdolo exm gn xaliqu xutx nimxad minimxv niamxqu sxnostr dxexercit ti nxulla co labori xni ixutxal quipxex eaxco modoxco sequa xl remx psumxd lorxsitx metxcons ctetur adip</Content>
+				<Br />
+				<Content>iscingxelit sedx oxe usmodxtem orxincidid nt utx abore et dol rexma naxa iquax txenim adx inimxve iamxqui xnostru xexerci ationxullam oxlabori xnisixutxali uipxexxea comm dox onsequa xlorem ips mxdolor sitx metxconsect turx dipi cingx litxsed doxeius od temporx ncididuntxu xlaborexetxd lorexmagna aliquaxut en mxadx inimxve iamxquis nostrudxe ercitat onxullamco laboris nisix txali uip ex eaxcommo oxc nsequa xlo emxipsu xd lorx itx metxc ns ct tu xadip sc ng elitx edx ox iusmodx em orx ncididuntxu xlabore et dol re magnaxal qua utx nim adxm nimxve iamxq isxnostru xe erc tati nxul amcoxla orisxn sixutx liquipxexxea comm doxc nsequa</Content>
+				<Br />
+				<Content>txlore xips m dol rxsit am txco sec etur adipiscingx litxsed doxeiusmo xtempo xi cidi untxutxl bore etxd lo exmagnaxa iquaxu xen mxa xminimx eniamxq isxn strudxexe citati nxullamcoxl bo isxnis xutxaliq</Content>
+				<Br />
+				<Content>uipxexx axcomm doxconsequat loremxipsu xdolo xsitxa etxcon ec et rxadip scingxelitx edxdoxe usmodxtempo xinc di untxut labore etxdolo exmagna aliq axutxen mxadx inimxve ia xqui xn strudxexe citation ulla coxla or sxnis xu xali uipxexx axco mod xcon equa xl remx psumxd lo xsitxa et co secte ur adipisc ngxelit sed doxeius odxtempor inc didu txut labor xetxd lorex agnaxal qua utxe imxadxmini xveniamx uisxn strudxex rcitati nxullamcox ab risxn sixutx liqu px xxeaxcommo oxconse uatxlore xip um dol rxsitx me xcon ect turx dipisci gxelitxsedx oxeiusm dxtem orx ncididunt utx abore etxdolo exm gnaxali uaxu xe im adxminimxven amxq isxnostru xexe citat onxul amcox abor sxn six txaliqui xexxeaxcommo oxconsequa xloremxipsum do orxsitx me xconsec eturx dipiscing elitx edxdoxe usmodx empo xinci idun</Content>
+				<Br />
+				<Content>txutx ab rexetxdolo exmag axa iq axutxeni xad minimxv ni mxq isx ostrudxexer ita ion ullamcox abor sxni ix txal qu pxexxea</Content>
+				<Br />
+				<Content>xcommod xconseq atxloremx psumxdolorx itxa et consect turxadi isc ngx litxsed doxeiu modxt mporx nc diduntxu xl borexetxd lorexmagnax li ua utxe imxad minim veniamx uisxnostr dxexerc tationxull mcoxla oris nisixutxali uipxexxeax ommod xco sequatxlo emx psumxdolo xsitx met con ectetu xadi isc ngxelitxs dxdox iu mo xtempor incididunt utxl bor xetx olorexma naxal quax txeni xadxm nim venia xq isxnostrud exercita ionxu lamcox aborisx isixu xaliq ipxexx axcommodoxco sequatxlo em i sumxd lorx itxametxc nsectetu xadipi cingxel txsedxdoxeiu modxtem orxinci idu txutxlabo exe xdolorexmag axal quaxut eni xad mi im veniamxqu sxnostrud exercitat on ulla co labo isxnisix txaliqui xex ea commodo</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

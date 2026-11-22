@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="ue13" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/corpo testo helvetica c">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="36">
+				<Content>a</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>bore etxdolore magnaxal quax txenimxa xminimxv niamxquisx ostrudx xercitation ullamcoxl boris nisixutxal quipxexxe xc mmo oxconsequa xloremxips mx olorx itx me xc nsect tur adipisc ngxeli</Content>
+				<Br />
+				<Content>tx edxdo eiusmod tempor incidid ntxutxlab rexetxdolore magnaxal qua utxen mxadxmin mx eni mx uisxnostru xexercita io xullamco labo is nisixutxa iquipxexxe xco mod xc nsequatx oremxips mxdolor sitxam txconsect turxad pis in xelitx edxd xeiusm dxtempo xincidi untxutx aborexetx ol rexmag ax liquax txe imxadxm nimxven amxqu sxnostr dxexe ci atio xullam oxlabori xnisixut aliqui xexx</Content>
+				<Br />
+				<Content>eaxcommodox onse uat loremxips mxdolorxsi xa etx onsec et rxa ipisc ngxe itxse xdoxei smo xtempor incidid ntxutxl borexet dolorexmagn xaliquax txenimxadxmi imxveniam quis nos rudxexe citati nxu lamcoxl bori xnisixutxal quip exxe xcomm doxcons quatxlo em ipsumxd lorxsitxame xconsectetur adipiscing elitxsedx ox iusmo xtempor incididu txutxlabo exetxdo orexmagnax liquaxu xenim adxmi imx en amxquisx ost udxexe cit tionxul am oxla ori xnisi ut al qu pxexx ax om odoxc nse ua xloremx ps mxd lorxsitxame xconsec et rxa ip scingxel txs dxd xei smod tempor incid duntxutxl bo exe xdol rexm gnaxali uaxutx nimxad minimxveniam quis nost udxexe</Content>
+				<Br />
+				<Content>rcitat onxu l mco labor sx isix txa iqui xexxeaxcomm doxcons quatxlore xipsum do orxs txametxc nsec etur ad piscingxe itxsed dox ius odxtemp rxincid dunt utxlabore etxdol rexmagnaxal qu xutxen mxadxmin</Content>
+				<Br />
+				<Content>imxveni mxquis nostrudxexer itationxul amcox aboris nisixu xa iq ipxexx axcommodoxc nsequat loremxipsum dolo xs txamet consec eturxad piscing elit sedxdox iusmo xtempor in idid nt utxlabore etxdolor xmag axali ua utxen mx dxmi imxveni mxqu sxn stru xexe ci atio xullam ox aboris ni ix txali ui xexxeax ommodox ons quatxlo emxipsumx olo xsit amet conse tetur adipi cingxel txs dxdo eiusmodxte porxinci idunt utxlabor xetxdol rexmagnaxa iq axutx nimxad mini xv niamxquisx ostrudx xercitat onx ll mco labori xn sixu xal quip exxeaxc mmodoxconse uatxlor mxips mxd lorxsitxa etx onsec eturxad pis ingxeli xsed do ei smodxtemporx ncid duntxutxl bore etxdo orexm gnaxa iqua utx nim adxminim veniamxquisx ostrudxexe citationxull mc xlabori xn sixutxa iquip exxeaxcom odoxc nsequat loremx psum dolor sitx</Content>
+				<Br />
+				<Content>ametx on ecteturxad pisci gxe it sedxdoxe usm dxtempo xi cid dun xutxlaborex txd lor xmagnaxa iqua utxe im adxm ni xveniam</Content>
+				<Br />
+				<Content>xquisxn strudxe ercitatio xullamcoxla oris ni ixutxal quipxex eax omm doxcons quatxl remxi sumxd lo xsitxame xc nsectetur adipiscingx li xs dxdo eiusm dxtem orxinci iduntxutx aborexe xdolorexma naxali uaxu xenimxadxmi imxveniamx uisxn str dxexercit tio xullamcox abori xni ixu xaliqu pxex eax ommodoxco sequa xl re xipsumx olorxsitxa etxc nse tetu xadipisc ngxel txse xdoxe usmod tem orxin id duntxutxla orexetxd lorex agnaxa iquaxut enimx dxmin mxveni mxquisxnostr dxexercit ti n ullam oxla orisxnisi utxaliqu pxexxe xcommod xconsequatxl remxips mxdolor sit ametxcons cte urxadipisci gxel txsedx oxe usm dx em orxincidi untxutxla orexetxdo or xmag ax liqu xutxenim adxminim ven am quisxno</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

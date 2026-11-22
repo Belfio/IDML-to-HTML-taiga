@@ -1,0 +1,27 @@
+node_modules
+
+/.cache
+/build
+.env
+
+# sst
+.sst
+
+app/assets/extracted.DS_Store
+
+# Uploads
+uploads/
+*.idml
+parsed-spread.html
+test-report.md
+sst-dev.log
+
+# build / test / tool output
+.DS_Store
+dist/
+coverage/
+playwright-report/
+test-results/
+.playwright-mcp/
+*.log
+.eslintcache

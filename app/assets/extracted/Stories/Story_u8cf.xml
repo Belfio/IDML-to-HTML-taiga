@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="u8cf" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="7">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>cita ionxulla cox abo isx isixutx li uipxex eaxcommodo c nseq atx oremxi s mxd lorxsi</Content>
+				<Br />
+				<Content>txametxco secteturxadip scingxe itxsedxd x iusmodxtemporxincididu</Content>
+				<Br />
+				<Content>ntxut laborexetxd l rexmag axaliqu xutxeni xadxminim veniamxq isxnos rudxexe citationx llamcoxl borisx isixutx liquipxex eaxcommo oxcon</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

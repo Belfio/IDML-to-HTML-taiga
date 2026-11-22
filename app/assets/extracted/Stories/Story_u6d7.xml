@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="u6d7" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/corpo testo helvetica c">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>cidid ntxutxlab rexetxdo orex agnaxali uaxutxen mxadxminim veniamx uisxnostrud exercitat onxul amcoxlabor sxnisixut al qui xexxeaxcom odoxconseq at lorem ips mx ol rxsit ame xconsec eturxa</Content>
+				<Br />
+				<Content>di iscin xelitxs dxdoxe usmodxt mporxinci iduntxutxlab rexetxdo ore magna aliquaxu xe imx dx inimxvenia xquisxnos ru xexercit tion ul amcoxlabo isxnisixut ali uip ex eaxcommo oxconseq atxlore xipsum dolorxsit ametxc nse te urxadi isci gxelit sedxdox iusmodx emporxi cididuntx tx aborex tx olorex agn xaliqua utxenim adxmi imxveni mxqui xn stru xexerc tationxu lamcoxla orisxn sixu</Content>
+				<Br />
+				<Content>txaliquipxe xeax omm doxconseq atxloremxi su xdo orxsi xa etx onsec etur adipi cingxe itx edxdoxe usmodxt mporxin ididunt utxlaborexe xdolorex agnaxaliquax txenimxad mini xve iamxqui xnostr dxe ercitat onxu lamcoxlabor sxni ixut aliqu pxexxea commodo co sequatx oremxipsumx olorxsitxame xconsectet rxadipisc ng elitx edxdoxe usmodxte porxincid duntxut laborexetx olorexm gnaxa iquax txe im adxminim ven amxqui xno trudxex rc tati nxu lamco la or sx isixu xa iq ipxex eax om odoxcon eq atx oremxipsumx olorxsi xa etx on ecteturx dip sci gxe itxs dxdoxe usmod temporxin id dun xutx abor xetxdol rexmag axaliq axutxenimxad mini xven amxqui</Content>
+				<Br />
+				<Content>sxnost udxe e cit tionx ll mcox abo isxn sixutxaliqu pxexxea commodoxc nsequa xl remx psumxdol rxsi xame xc nsectetur adipis ing eli xsedxdo eiusmod temp rxincidid ntxutx aborexetxdo or xmagna aliquaxu</Content>
+				<Br />
+				<Content>txenimx dxmini xveniamxquis nostrudxex rcita ionxul amcoxl bo is nisixu xaliquipxex eaxcomm doxconsequa xlor mx psumxd lorxsi xametxc nsectet rxad piscing elitx edxdoxe us odxt mp rxincidid ntxutxla orex txdol re magna al quax txenimx dxmi imx enia xqui xn stru xexerc ta ionxul am ox abori xn sixutxa iquipxe xea commodo consequat lor mxip umxd lorxs txame xcons cteturx dip scin xelitxsedx oxeiusmo xtemp rxincidi untxutx aborexetxd lo exmag axaliq axut en mxadxminim veniamx uisxnost udx xe cit tionxu la coxl bor sxni ixutxal quipxexxeax ommodox onseq atx oremxipsu xdo orxsi xametxc nse teturxa ipis in xe itxsedxdoxei smod temporxin idid ntxut labor xetxd lore mag axa iquaxutx nimxadxminim veniamxqui xnostrudxexe ci ationxu la coxlabo isxni ixutxaliq ipxex eaxcomm doxcon equa xlore xips</Content>
+				<Br />
+				<Content>umxdo or sitxametxc nsect tur ad piscingx lit sedxdox iu mod tem orxincididu txu xla orexetxd lore magn xa iqua ut enimxad</Content>
+				<Br />
+				<Content>xminimx eniamxq isxnostru xexercitati nxul am oxlabor sxnisix txa iqu pxexxea commod xcons quatx or mxipsumx ol rxsitxame xconsectetu xa ip scin xelit sedxd xeiusmo xtemporxi cididun xutxlabore etxdol rexm gnaxaliquax txenimxadx inimx eni mxquisxno tru xexercita ionxu lam oxl borisx isix txa iquipxexx axcom od xc nsequat loremxipsu xdol rxs txam txconsec eturx dipi cingx litxs dxd xeius od temporxinc diduntxu xlabo exetxd lorexma naxal quaxu xenimx dxminimxveni mxquisxno tr d exerc tati nxullamco laborisx isixut aliquip exxeaxcommod xconseq atxlore xip umxdolorx itx metxconsect turx dipisc ngx lit se xd xeiusmodx emporxinc diduntxut la orex tx olor xmagnaxa iquaxutx nim ad minimxv</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

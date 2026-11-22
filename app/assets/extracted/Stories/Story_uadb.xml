@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="uadb" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>quaxutx n mxad</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>xminimx e iamxquis </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>no trudxexe citat</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ionxullamco</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>xlabori x isixutxa </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>iq ipxexxea commo</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>doxconse</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>quatxlo e xipsumxd </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>lo xsitxame xcons</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ectetur a ipiscing </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>el txsedxdo eiusm</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>odxtempor</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>xincidi u txutxlab </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>re etxdolor xmagn</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>axa iqua</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>xutxeni x dxminimx </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>en amxquisx ostru</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>dxexerci</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>tationx l amcoxlab </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ri xnisixut aliqu</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="BoldCond" PointSize="11">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ipxex eaxcomm</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>odoxcon e uatxlore </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>xi sumxdolo xsitx</Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCond" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ametxco s cteturxa </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="LightCondObl" PointSize="10">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>ip scingxel txsed</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

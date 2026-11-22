@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="ud0a" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Normale (Web)" SpaceBefore="0.1" SpaceAfter="0.1" Justification="LeftJustified">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>umxdolorxs tx metxc nsecte urx dipi ci gxelitxs dxdox iu modxtem or incididu txutxlab rex txdolor x agnaxal q axutxeni xadxmin m veniamxquis no trudxexe citationxul amc xlabo isxni ix txaliq ipxexxeaxcommodox onseq</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Enfasi (corsivo)" FillColor="Color/Paper" CharacterDirection="LeftToRightDirection">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>uatxlo em ips mxdolorxsi xametxcons cte urxad piscing e itxsedxdox iusmo xtempo xincididun xut labor xetxdolo</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>r xma na aliqua utxen mxadxmin mxveni mx uisxno tr dxe er itationx llamcoxla ori xnisi utxali uip ex eaxc mm do conse uat lorem ipsum dolor sitxam txc nsec et rxadi iscing e itx edx oxeiusmodxt mpor incid duntxutx abo exetxd lorexmag axa iqu x txenim adxm nimxven am quisxn st udxexerc tationxull mco labor sxn sixutx liqui xexxeaxcom odoxconsequ txl remxips m do orxsitxametx on ectet r adipi ci gxelit sed doxei sm dxtem o xinci iduntx txlabor xetxdolorexma naxa iquax txenimxadxmini xve iamxquis nostrudxe ercit tionxu lamc x</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Enfasi (corsivo)" FillColor="Color/Paper" CharacterDirection="LeftToRightDirection">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>la orisxn</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Italic">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+				<Content>i ixutxaliquipx xx axcommodox o sequa xloremxip umxdolorxs  xam txconse teturxad piscingxelit sedxdoxe us odxtemporxi cididu txutxl bo exetxdol rexmagn x liq axutxeni xad minimxveniamxquis nostrudxexercita io xullamcoxlaborisxni ixutx liqu pxexxeax ommo oxconsequatxlo emxi sumxdolorxsi x metx onsec eturxadipisc ngxelitxsedxdo ei smodxtem orx ncid dun xutx aborex txdo orexm gnaxa iq axutxenimxa xm nimxven a xquisxno t udxex rc tationxu lamcox ab risx isix txali uipxexxeax om od xcons qua xloremxipsu xdolor si xame xconsec et rxadipiscingxe itxse xdoxe us odxtempo x ncididuntx txlabo ex txdolorex a naxaliqua ut eni xad minim ve iamxquisxn strudxexer itationxullamcoxla ori xnisixutx li uipxexxeax o modoxcon eq atxloremxipsum dolorxsitxam txconsecte ur adipiscingxeli xsedxdoxeiusm dxtempor incididun x txl borexet dolorexma na aliquax t </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" Justification="LeftJustified">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/Paper" FontStyle="Italic" PointSize="6">
+				<Properties>
+					<AppliedFont type="string">HelveticaNeue</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
